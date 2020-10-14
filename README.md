@@ -2,10 +2,10 @@ PNGs
 ====
 
 ## Overview
-dezamo/changetopng - Change every .ai/.eps files to .png format in the specified Directory. Loop through all sub directories in the selected folder. Used as Illustrator script.
+ebs-uchimura/changetopng - Change every .ai/.eps files to .png format in the specified Directory. Loop through all sub directories in the selected folder. Used as Illustrator script.
 
 ## Description
-dezamo/changetopng - Fork of "PNGs.xjs". This script gets files specified by the user from the selected folder and batch processes them and saves them 
+ebs-uchimura/changetopng - Fork of "PNGs.xjs". This script gets files specified by the user from the selected folder and batch processes them and saves them 
 as PNGs in the same destination with the same file name. forked with subfolder loop function.
 
 ## Requirement
