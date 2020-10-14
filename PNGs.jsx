@@ -51,8 +51,8 @@ function main(folderObj, ext) {
           var f = fileList[i].name.toLowerCase();
           for(var j=0; j<ext.length; j++){
             if (f.indexOf(ext[j]) > -1 && f.slice(0,1) != ".") {
-							list.push(fileList[i]);
-		        }
+              list.push(fileList[i]);
+            }
           }
         }
       }
